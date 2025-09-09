@@ -29,7 +29,7 @@
 </main>
 
 <footer class="site-footer">
-	<div class="container">© {new Date().getFullYear()} Troop 42 — All rights reserved</div>
+	<div class="container">© {new Date().getFullYear()} Troop 1747 — All rights reserved</div>
 </footer>
 
 <style>
