@@ -12,7 +12,7 @@
 
 <header class="site-header">
 	<div class="header-inner container">
-		<a class="logo" href="/">Troop 42</a>
+		<a class="logo" href="/">Troop 1747</a>
 		<nav class="main-nav">
 			<a href="/news" class:active={$page.url.pathname === '/news'}>News</a>
 			<a href="/events" class:active={$page.url.pathname.startsWith('/events')}>Events</a>
